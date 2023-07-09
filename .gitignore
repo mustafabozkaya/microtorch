@@ -1,0 +1,21 @@
+#create gitignore file for the python project
+.vscode
+.env
+__pycache__
+*.pyc
+*.pyo
+*.env
+*.log
+*.db
+*.sqlite3
+*.DS_Store
+*.swp
+*.bak
+*.tmp
+*.out
+*.pid
+*.pid.lock
+*.coverage
+
+# Add folders that contain generated files
+.pytest_cache/
